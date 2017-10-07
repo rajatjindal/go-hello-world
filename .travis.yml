@@ -3,5 +3,5 @@ language: go
 services:
   - docker
 script:
-  docker build -t rajatjindal/go-hello-world
+  docker build -t rajatjindal/go-hello-world .
 
